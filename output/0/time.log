@@ -1,0 +1,11 @@
+#in units of seconds
+#init
+ total = 0.0
+#prepare
+ total = 0.00027560299895412754
+#run
+ total = 0.02032806100032758
+ - min_search = 0.008910285998354084
+ - recalc = 0.01122023499920033
+#post
+ total = 0.0007703699993726332
